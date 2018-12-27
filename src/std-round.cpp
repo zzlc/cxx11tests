@@ -5,7 +5,7 @@
  
 #pragma STDC FENV_ACCESS ON
  
-int rund_test()
+int round_test()
 {
     // round
     std::cout << "round(+2.3) = " << std::round(2.3)
